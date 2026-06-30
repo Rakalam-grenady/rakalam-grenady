@@ -133,13 +133,9 @@
 <p align="center">
     <img src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" width="50%">
 </p>
-
 <p align="center">
-    <h4>☕ Si mon profil vous est utile, n'hésitez pas à m'offrir un café 😀</h4>
+    <h3 align="center">☕ Si mon profil vous est utile, n'hésitez pas à m'offrir un café 😀</h3>
 </p>
 
-<p align="center">
-    <a href='https://ko-fi.com/ton-profil' target='_blank'>
-        <img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
-</p>
+
+

@@ -22,9 +22,6 @@
     <a href="https://github.com/rakalam" target="blank"><img src="https://img.shields.io/github/followers/rakalam?style=social" alt="github followers" /></a>
 </p>
 
----
----
-
 <!-- Compétences -->
 <h1 align="center">🛠 Mes compétences</h1>
 
@@ -92,8 +89,8 @@
 <h3 align="center">📊 Méthodologies</h3>
 <p align="center">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Product_Building-FF6F00?style=for-the-badge&logo= product-building&logoColor=white" alt="Product Building" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Architecture_Logicielle-005571?style=for-the-badge&logo= architecture&logoColor=white" alt="Architecture" /></a>
+  <img src="https://img.shields.io/badge/Product_Building-FF6F00?style=for-the-badge&logo=targetprocess&logoColor=white" alt="Product Building" />
+<img src="https://img.shields.io/badge/Architecture_Logicielle-005571?style=for-the-badge&logo=blueprint&logoColor=white" alt="Architecture" />
 </p>
 
 

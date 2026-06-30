@@ -1,6 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakalam&label=Profile%20views&color=0e75b6&style=flat" alt="rakalam" /> </p>
 
 <h1 align="center">👋 Salut, je suis Patrick</h1>
+<h3 align="center">🐍 Mon activité GitHub</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rakalam-grenady/rakalam-grenady/output/github-contribution-grid-snake-dark.svg?cache=1" alt="Snake animation" />
+</p>
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">

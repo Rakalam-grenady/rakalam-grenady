@@ -1,5 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakalam&label=Profile%20views&color=0e75b6&style=flat" alt="rakalam" /> </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakalam-grenady/magic-portfolio/main/public/images/logo.png" alt="Logo Patrick" width="200" />
+</p>
+
 <h1 align="center">👋 Salut, je suis Patrick</h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">

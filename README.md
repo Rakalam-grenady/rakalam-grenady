@@ -23,25 +23,6 @@
 </p>
 
 ---
-
-<!-- À propos -->
-<h1 align="center">💻 Qui suis-je ?</h1>
-
-<p align="center">
-    Développeur web proactif, créatif et passionné, j'aime construire des produits de bout en bout : 
-    <strong>UI/UX, front-end, API, bases de données et automatisation</strong>.
-</p>
-
-<p align="center">
-    Mon approche allie <strong>créativité</strong> et <strong>rigueur technique</strong> pour livrer des solutions 
-    modernes, rapides et utiles. J'ai une sensibilité particulière pour les projets à <strong>impact social</strong> 
-    et les architectures <strong>scalables</strong>.
-</p>
-
-<p align="center">
-    <i>"Concevoir des interfaces modernes, rapides et utiles"</i>
-</p>
-
 ---
 
 <!-- Compétences -->

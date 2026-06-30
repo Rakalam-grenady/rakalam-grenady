@@ -119,7 +119,7 @@
 <h3 align="center">🐍 Mon activité GitHub</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rakalam/rakalam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rakalam-grenady/rakalam-grenady/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

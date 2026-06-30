@@ -116,11 +116,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Architecture_Logicielle-005571?style=for-the-badge&logo= architecture&logoColor=white" alt="Architecture" /></a>
 </p>
 
-<h3 align="center">🐍 Mon activité GitHub</h3>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rakalam-grenady/rakalam-grenady/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 

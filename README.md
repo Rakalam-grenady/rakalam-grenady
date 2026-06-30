@@ -16,8 +16,6 @@
 <!-- Social network -->
 <p align="center">
     <a href="https://linkedin.com/in/ton-profil" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-    <a href="https://twitter.com/ton-profil" target="blank"><img src="https://img.shields.io/twitter/follow/ton-profil?logo=twitter&style=for-the-badge" alt="twitter" /></a>
-    <a href="https://dev.to/ton-profil" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" /></a>
     <a href="https://rakalam.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 

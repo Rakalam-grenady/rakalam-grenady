@@ -1,12 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakalam&label=Profile%20views&color=0e75b6&style=flat" alt="rakalam" /> </p>
 
 <h1 align="center">👋 Salut, je suis Patrick</h1>
-<h3 align="center">🐍 Mon activité GitHub</h3>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rakalam-grenady/rakalam-grenady/output/github-contribution-grid-snake-dark.svg?cache=1" alt="Snake animation" />
-</p>
-
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=0E75B6&center=true&vCenter=true&lines=D%C3%A9veloppeur+Full+Stack+Senior;Conception+UI%2FUX+%26+Automatisation;Des+solutions+utiles+%26+modernes;De+l%27id%C3%A9e+%C3%A0+la+production">
@@ -124,20 +118,10 @@
 
 
 ---
-
-<!-- GitHub Stats -->
-<h1 align="center">📊 Statistiques GitHub</h1>
+<h3 align="center">🐍 Mon activité GitHub</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakalam&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakalam&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakalam&theme=radical" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/Rakalam-grenady/rakalam-grenady/output/github-contribution-grid-snake-dark.svg?cache=1" alt="Snake animation" />
 </p>
 
 ---

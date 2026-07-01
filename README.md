@@ -18,7 +18,7 @@
 
 <!-- Social network -->
 <p align="center">
-    <a href="https://linkedin.com/in/ton-profil" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <a href="https://www.linkedin.com/in/patrick-mamy-35079734a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
     <a href="https://rakalam.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 

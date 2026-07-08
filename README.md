@@ -98,22 +98,12 @@
 </p>
 
 
-
----
 <h3 align="center">🐍 Mon activité GitHub</h3>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rakalam-grenady/rakalam-grenady/output/github-contribution-grid-snake-dark.svg?cache=1" alt="Snake animation" />
 </p>
 
----
-
-<!-- Citation -->
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
----
 
 <!-- Contact -->
 <h1 align="center">📬 Me contacter</h1>
@@ -128,11 +118,10 @@
     <a href="https://rakalam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
 
 <!-- Footer -->
 <p align="center">
-    <img src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" width="50%">
+<img src="https://drive.google.com/uc?export=view&id=1Ue0dVX6cbbSNniOz7AnCTgf9fOnNy-4G" width="50%">
 </p>
 <p align="center">
     <h3 align="center">☕ Si mon profil vous est utile, n'hésitez pas à m'offrir un café 😀</h3>
